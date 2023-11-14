@@ -1,0 +1,456 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\daniele\ARM_projects\lab02\lab02.uvproj
+Project File Date:  11/26/2017
+
+<h2>Output:</h2>
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(10): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    10 00000018  LD R0, SEQUENCE(R10) 
+esercizio3.s:                 ^
+esercizio3.s(11): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    11 00000018  LD R1, SEQUENCE(R9)
+esercizio3.s:                 ^
+esercizio3.s(15): error: A1147E: Bad shift name
+esercizio3.s:    15 00000024  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(16): error: A1147E: Bad shift name
+esercizio3.s:    16 00000024  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(29): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    29 00000048  LD R0, SEQUENCE(R10)
+esercizio3.s:                 ^
+esercizio3.s(31): error: A1147E: Bad shift name
+esercizio3.s:    31 0000004c  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(45): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    45 00000074  LD R0, SEQUENCE(R10)
+esercizio3.s:                 ^
+esercizio3.s(50): error: A1147E: Bad shift name
+esercizio3.s:    50 00000084  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(64): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    64 000000ac  LD R0, SEQUENCE(R10) 
+esercizio3.s:                 ^
+esercizio3.s(65): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    65 000000ac  LD R1, SEQUENCE(R9)
+esercizio3.s:                 ^
+esercizio3.s(69): error: A1147E: Bad shift name
+esercizio3.s:    69 000000b8  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(70): error: A1147E: Bad shift name
+esercizio3.s:    70 000000b8  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(77): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    77 000000c4 SEQUENCE CDC 6, 9, 5, 3, 1, 2 ,0, 8
+esercizio3.s:                         ^
+esercizio3.s: 13 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(10): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    10 00000018  LD R0, SEQUENCE[R10] 
+esercizio3.s:                 ^
+esercizio3.s(11): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    11 00000018  LD R1, SEQUENCE(R9)
+esercizio3.s:                 ^
+esercizio3.s(15): error: A1147E: Bad shift name
+esercizio3.s:    15 00000024  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(16): error: A1147E: Bad shift name
+esercizio3.s:    16 00000024  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(29): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    29 00000048  LD R0, SEQUENCE(R10)
+esercizio3.s:                 ^
+esercizio3.s(31): error: A1147E: Bad shift name
+esercizio3.s:    31 0000004c  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(45): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    45 00000074  LD R0, SEQUENCE(R10)
+esercizio3.s:                 ^
+esercizio3.s(50): error: A1147E: Bad shift name
+esercizio3.s:    50 00000084  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(64): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    64 000000ac  LD R0, SEQUENCE(R10) 
+esercizio3.s:                 ^
+esercizio3.s(65): error: A1163E: Unknown opcode LD , expecting opcode or Macro
+esercizio3.s:    65 000000ac  LD R1, SEQUENCE(R9)
+esercizio3.s:                 ^
+esercizio3.s(69): error: A1147E: Bad shift name
+esercizio3.s:    69 000000b8  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(70): error: A1147E: Bad shift name
+esercizio3.s:    70 000000b8  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(77): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    77 000000c4 SEQUENCE CDC 6, 9, 5, 3, 1, 2 ,0, 8
+esercizio3.s:                         ^
+esercizio3.s: 13 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(10): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    10 00000018  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(11): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    11 00000018  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(15): error: A1147E: Bad shift name
+esercizio3.s:    15 00000024  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(16): error: A1147E: Bad shift name
+esercizio3.s:    16 00000024  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(29): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    29 00000048  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(31): error: A1147E: Bad shift name
+esercizio3.s:    31 0000004c  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(45): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    45 00000074  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(50): error: A1147E: Bad shift name
+esercizio3.s:    50 00000084  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(64): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    64 000000ac  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(65): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    65 000000ac  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(69): error: A1147E: Bad shift name
+esercizio3.s:    69 000000b8  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(70): error: A1147E: Bad shift name
+esercizio3.s:    70 000000b8  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(77): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    77 000000c4 SEQUENCE CDC 6, 9, 5, 3, 1, 2 ,0, 8
+esercizio3.s:                         ^
+esercizio3.s: 13 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(11): error: A1517E: Unexpected operator equal to or equivalent to =
+esercizio3.s:    11 0000001c  MOV R13, =SEQUENCE
+esercizio3.s:                           ^
+esercizio3.s(13): error: A1517E: Unexpected operator equal to or equivalent to =
+esercizio3.s:    13 00000020  MOV R13, =SEQUENCE 
+esercizio3.s:                           ^
+esercizio3.s(18): error: A1147E: Bad shift name
+esercizio3.s:    18 00000030  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(19): error: A1147E: Bad shift name
+esercizio3.s:    19 00000030  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(32): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    32 00000054  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(34): error: A1147E: Bad shift name
+esercizio3.s:    34 00000058  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(48): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    48 00000080  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(53): error: A1147E: Bad shift name
+esercizio3.s:    53 00000090  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(67): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    67 000000b8  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(68): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    68 000000b8  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(72): error: A1147E: Bad shift name
+esercizio3.s:    72 000000c4  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(73): error: A1147E: Bad shift name
+esercizio3.s:    73 000000c4  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(80): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    80 000000d0 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 13 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(18): error: A1147E: Bad shift name
+esercizio3.s:    18 00000038  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(19): error: A1147E: Bad shift name
+esercizio3.s:    19 00000038  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(32): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    32 0000005c  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(34): error: A1147E: Bad shift name
+esercizio3.s:    34 00000060  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(48): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    48 00000088  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(53): error: A1147E: Bad shift name
+esercizio3.s:    53 00000098  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(67): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    67 000000c0  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(68): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    68 000000c0  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(72): error: A1147E: Bad shift name
+esercizio3.s:    72 000000cc  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(73): error: A1147E: Bad shift name
+esercizio3.s:    73 000000cc  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(80): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    80 000000d8 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 11 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(19): error: A1147E: Bad shift name
+esercizio3.s:    19 0000003c  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(32): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    32 00000060  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(34): error: A1147E: Bad shift name
+esercizio3.s:    34 00000064  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(48): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    48 0000008c  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(53): error: A1147E: Bad shift name
+esercizio3.s:    53 0000009c  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(67): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    67 000000c4  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(68): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    68 000000c4  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(72): error: A1147E: Bad shift name
+esercizio3.s:    72 000000d0  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(73): error: A1147E: Bad shift name
+esercizio3.s:    73 000000d0  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(80): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    80 000000dc SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 10 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(32): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    32 00000064  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(34): error: A1147E: Bad shift name
+esercizio3.s:    34 00000068  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(48): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    48 00000090  LDR R0, SEQUENCE[R10]
+esercizio3.s:                                 ^
+esercizio3.s(53): error: A1147E: Bad shift name
+esercizio3.s:    53 000000a0  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(67): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    67 000000c8  LDR R0, SEQUENCE[R10] 
+esercizio3.s:                                 ^
+esercizio3.s(68): error: A1137E: Unexpected characters at end of line
+esercizio3.s:    68 000000c8  LDR R1, SEQUENCE[R9]
+esercizio3.s:                                 ^
+esercizio3.s(72): error: A1147E: Bad shift name
+esercizio3.s:    72 000000d4  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(73): error: A1147E: Bad shift name
+esercizio3.s:    73 000000d4  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(80): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    80 000000e0 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 9 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(35): error: A1147E: Bad shift name
+esercizio3.s:    35 00000070  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(55): error: A1147E: Bad shift name
+esercizio3.s:    55 000000b0  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(76): error: A1147E: Bad shift name
+esercizio3.s:    76 000000f4  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(77): error: A1147E: Bad shift name
+esercizio3.s:    77 000000f4  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000100 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 5 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(55): error: A1147E: Bad shift name
+esercizio3.s:    55 000000b4  MOV R10, R10, #4   ; counter
+esercizio3.s:                              ^
+esercizio3.s(76): error: A1147E: Bad shift name
+esercizio3.s:    76 000000f8  MOV R10, R10, #4   ; counter 1 -> PARTE DA 0 
+esercizio3.s:                              ^
+esercizio3.s(77): error: A1147E: Bad shift name
+esercizio3.s:    77 000000f8  MOV R9, R9, #4    ; counter 2 -> PARTE DA 4
+esercizio3.s:                            ^
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000104 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 4 Errors, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000110 SEQUENCE CDC 6, 9, 5, 3, 1, 2 , 0, 8
+esercizio3.s:                         ^
+esercizio3.s: 1 Error, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000110 SEQUENCE CDC (6, 9, 5, 3, 1, 2 , 0, 8)
+esercizio3.s:                         ^
+esercizio3.s: 1 Error, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000110 SEQUENCE CDC 6,9,5,3,1,2,0,8
+esercizio3.s:                         ^
+esercizio3.s: 1 Error, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+esercizio3.s(84): error: A1163E: Unknown opcode CDC , expecting opcode or Macro
+esercizio3.s:    84 00000110 SEQ CDC 6,9,5,3,1,2,0,8
+esercizio3.s:                    ^
+esercizio3.s: 1 Error, 0 Warnings
+Target not created
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=328 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+assembling esercizio3.s...
+linking...
+Program Size: Code=324 RO-data=0 RW-data=0 ZI-data=0  
+"lab02.axf" - 0 Error(s), 0 Warning(s).

@@ -1,0 +1,2 @@
+Dependencies for Project 'lab02', Target 'Target 1': (DO NOT MODIFY !)
+F (.\esercizio3.s)(0x5A1B12C8)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "esercizio3.lst" --xref -o "esercizio3.o" --depend "esercizio3.d")
